@@ -16,9 +16,7 @@
     <img align="center" alt="" height="30" width="40" src="https://bstqb.org.br/b9/img/selos/sign-AcT.png">
     <img align="center" alt="" height="30" width="40" src="https://miro.medium.com/max/806/1*NvPgYjeU1dR4cDlYOBsszA.png">
     <img align="center" alt="" height="30" width="40" src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1024x576.png">
-    <img align="center" alt="" height="30" width="40" src="https://blog.scottlogic.com/bquinn/assets/jmeter.png">
-    <img align="center" alt="" height="30" width="40" src="https://miro.medium.com/max/1400/1*ezeaO1L6xMh55p00csxPfw.png">
-    <img align="center" alt="" height="30" width="40" src="https://sistemas.tce.pi.gov.br/jira/images/atlassian-jira-logo-large.png">    
+    <img align="center" alt="" height="30" width="40" src="https://blog.scottlogic.com/bquinn/assets/jmeter.png">  
   <!-- <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://miro.medium.com/max/1400/1*nEwEHNSUrakbfCkaC_Vgzw.jpeg"> -->
 </div>
   
