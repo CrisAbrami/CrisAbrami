@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisAbrami&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="" height="30" width="40" src="https://bstqb.org.br/b9/img/selos/sign-FL.png">
+    <img align="center" alt="" height="60" width="80" src="https://bstqb.org.br/b9/img/selos/sign-FL.png">
     <img align="center" alt="" height="30" width="40" src="https://bstqb.org.br/b9/img/selos/sign-AcT.png">
     <img align="center" alt="" height="30" width="40" src="https://miro.medium.com/max/806/1*NvPgYjeU1dR4cDlYOBsszA.png">
     <img align="center" alt="" height="30" width="40" src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1024x576.png">
